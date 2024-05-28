@@ -1,2 +1,2 @@
-# Low-Level-design
-Snake and ladder game 
+
+This Snake and Ladder game in Java is designed with a low-level approach, focusing on core functionalities and simplicity. It features a basic implementation of the classic game, allowing players to roll a dice and move their tokens accordingly on the board. The game logic is encapsulated within simple classes and methods, emphasizing readability and maintainability. Player movements, snake bites, and ladder climbs are handled using straightforward algorithms, ensuring smooth gameplay.
